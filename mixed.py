@@ -24,7 +24,10 @@ from sklearn.metrics import classification_report
 
 # 这段代码对比了很多不同的算法，，所以可以选择一部分来讲
 # 这段代码来自 https://www.kaggle.com/aljojose/pima-indians-diabetes-my-first-project
+# Also here is another link that you might want to refer to
+# https://www.kaggle.com/mirichoi0218/classification-diabetes-or-not-with-basic-12ml
 # 注意这段代码里面有两段pre processing, 我没有放在里面，，如果需要的话还是得放进去的,有利于提高准确度
+
 
 # loading the data 
 dataset = pd.read_csv('diabetes.csv')
