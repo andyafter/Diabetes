@@ -1,0 +1,9 @@
+#+TITLE: Diabetes data analysis 
+
+Data source is from kaggle. 
+* Setup and Run
+This project is based on python 3.6.6, run the following command and set up the environment
+#+BEGIN_SRC Shell
+pip3 install -r requirements.txt
+python main.go
+#+END_SRC
